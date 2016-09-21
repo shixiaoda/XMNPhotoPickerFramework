@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "XMFraker" => "3057600441@qq.com" }  
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/ws00801526/XMNPhotoPickerFramework.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/shixiaoda/XMNPhotoPickerFramework.git", :tag => s.version }
   s.ios.frameworks   = "UIKit", "Foundation"
   s.requires_arc = true
   s.default_subspec = 'Picker'
